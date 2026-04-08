@@ -121,8 +121,5 @@ streamlit run app.py
 
 <div align="center">
 
-**Developed with ❤️ by the Sentiment Analysis Team**
-*© 2026 Sentira AI Infrastructure. All Rights Reserved.*
-
 </div>
 
